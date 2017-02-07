@@ -3,7 +3,8 @@
 Workflow policy for steps and processes.
 
 ## Front-End
-  -[angularjs](https://angularjs.org/)
+
+- [angularjs](https://angularjs.org/)
 - [bootstrap](http://getbootstrap.com/)
 - [jquery](https://jquery.com/)
 
