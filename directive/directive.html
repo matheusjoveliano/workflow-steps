@@ -1,0 +1,6 @@
+<div class="row">
+  <div class="process" ng-repeat="n in workflows">
+    <div ng-class="$last ? 'a-active-n' : 'a-disable-n'"> {{ n.number }} </div>
+    <div ng-class="$last ? 'a-active' : 'a-disable'"> {{ n.name }} </div>
+  </div>
+</div>

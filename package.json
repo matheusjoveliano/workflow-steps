@@ -1,0 +1,12 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "workflow process",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 4000 ./",
+    "prestart": "npm install"
+  },
+  "author": "Matheus Eduardo Joveliano",
+  "license": "ISC"
+}
