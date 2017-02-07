@@ -18,6 +18,8 @@ Workflow policy for steps and processes.
   npm start
 ```
 
+# Example
+
 ![eflyer](https://s28.postimg.org/enckqpq0t/steps.png)
 
 The HTTP server is pre-configured to use the port 4000. If you need to change this port, just change the file: **package.json**;
