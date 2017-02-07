@@ -6,7 +6,6 @@ Workflow policy for steps and processes.
 
 - [angularjs](https://angularjs.org/)
 - [bootstrap](http://getbootstrap.com/)
-- [jquery](https://jquery.com/)
 
 # Project Execution
 
